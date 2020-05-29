@@ -1,0 +1,1 @@
+C:\Users\PRC_RPA\AppData\Local\UiPath\app-20.4.1\UiRobot.exe execute -p "03_webスクレイピング_秋月カタログ"
